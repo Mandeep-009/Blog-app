@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: #131417;
+  color: white;
+}
+.blog-item{
+  /* text-decoration: none; */
+  color: white;
+}
+.blog-item:hover{
+  text-decoration: underline;
+}
+input{
+  background-color: #131417;
+  color: white;
+}
